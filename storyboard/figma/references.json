@@ -1,0 +1,18 @@
+{
+  "file_key": "9T2NtUeRFyejZN9qi9cl5E",
+  "references": [
+    {
+      "node_id": "356:41",
+      "url": "https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution?node-id=356-41",
+      "status": "未读取设计内容"
+    },
+    {
+      "node_id": "15466:25655",
+      "url": "https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution?node-id=15466-25655",
+      "status": "未读取设计内容"
+    }
+  ],
+  "observed_blocker": "平台 HTTPS 代理 CONNECT 403 Forbidden",
+  "downloaded_frames": 0,
+  "node_types_verified": false
+}

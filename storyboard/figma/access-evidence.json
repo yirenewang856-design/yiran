@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-16T18:19:26.613Z",
+  "nav": {
+    "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution?node-id=356-41&p=f&t=z2vYBMLA1aqWl5yj-0\nCall log:\n\u001b[2m  - navigating to \"https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution?node-id=356-41&p=f&t=z2vYBMLA1aqWl5yj-0\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  "url": "chrome-error://chromewebdata/",
+  "title": "www.figma.com",
+  "body": "This site can’t be reached\n\nThe webpage at https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution?node-id=356-41&p=f&t=z2vYBMLA1aqWl5yj-0 might be temporarily down or it may have moved permanently to a new web address.\n\nERR_TUNNEL_CONNECTION_FAILED",
+  "links": [],
+  "events": [
+    {
+      "url": "https://www.figma.com/design/9T2NtUeRFyejZN9qi9cl5E/Sito-Institution",
+      "error": "net::ERR_TUNNEL_CONNECTION_FAILED"
+    }
+  ]
+}
